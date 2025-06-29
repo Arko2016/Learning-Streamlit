@@ -11,3 +11,6 @@ Python framework to develop web applications for data science, machine learning 
 4. no in-depth html, css & javascript coding required
 5. easy to deploy
 6. can also be done on the cloud using colab, so no local installation needed
+
+**Note**
+We will deploy all the codes in google colab to avoid local installation
